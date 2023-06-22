@@ -1,4 +1,4 @@
-# Ex-14 Develop a complete Todo application with all features
+# Ex-05 Develop a complete Todo application with all features
 ## Aim:-
 To Develop a complete Todo application with all features
 ## Algorithm:-
